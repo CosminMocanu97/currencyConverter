@@ -1,38 +1,19 @@
 .App {
-  text-align: center;
+    background-color: rgba(255, 255, 255, 0.878);
+    height: 500px;
+    max-width: 330px;
+    padding: 10px 35px;
+    border-radius: 7px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App .FromCurrency, .ToCurrency {
+    width:115px !important;
+    background-color: rgb(162, 162, 162);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.MuiPaper-root{
+  height:250px; 
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.MuiPaper-root::-webkit-scrollbar{
+  display: none;
 }
