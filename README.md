@@ -3,9 +3,9 @@
 ![screenshot](https://i.postimg.cc/wMCSCd9V/Screenshot-from-2021-10-10-00-15-07.png)
 
 First project as a part of the discord community React Learn group. This group was made as a way to expand the react knownledge by doing lots of fun weekly projects.
-This application is used to convert one currency in another currency using their current exchange rates.
+This application is used to convert one currency in another currency using their current exchange rate.
 
-[live-demo](https://pedantic-wilson-dbd0ff.netlify.app/)
+[live-demo](https://cosmin-currencyconverter.netlify.app/)
 
 ## Setup local environment
 
